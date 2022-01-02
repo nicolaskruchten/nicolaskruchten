@@ -1,3 +1,3 @@
 ### Nicolas Kruchten
 
-I build data visualization and data analysis tools. I am the creator of [Plotly Express](https://plotly.express/) as well as [pivottable.js](https://pivottable.js.org/) and am currently VP of Product at [Plotly](https://plotly.com/). I post videos of talks and neat visualization projects at [https://nicolas.kruchten.com/](https://nicolas.kruchten.com/).
+I build data visualization and data analysis tools. I maintain [Plotly.py](https://plotly.com/python/) and I am the creator of [Plotly Express](https://plotly.express/) as well as [react-pivottable](https://react-pivottable.js.org/) and [pivottable.js](https://pivottable.js.org/). I am currently a graduate student at the [École de Technologie Supérieur](https://etsmtl.ca/) in Montreal. I post videos of talks and neat visualization projects at [https://nicolas.kruchten.com/](https://nicolas.kruchten.com/).
